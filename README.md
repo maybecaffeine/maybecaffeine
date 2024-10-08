@@ -4,7 +4,7 @@
 - 🌱 I’m currently brushing up my skills and learning **Full stack development**
 
 - 📫 You can reach out to me @**lavanyaapundir@gmail.com**
-<img align="right" alt="coding" width="400" src="<div class="tenor-gif-embed" data-postid="14640055" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/computer-work-online-gif-14640055">Computer Work GIF</a>from <a href="https://tenor.com/search/computer-gifs">Computer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
+<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?q=animated%20gif%20coder%20girl%20for%20github&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd%2F68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966&imgrefurl=https%3A%2F%2Fgithub.com%2Faarushiagarwal131&docid=sWrr8vywmPY_3M&tbnid=6jsqada4naqKQM&vet=12ahUKEwj_rbPCv_6IAxVfxzgGHQkuCAcQM3oECCYQAA..i&w=498&h=498&hcb=2&ved=2ahUKEwj_rbPCv_6IAxVfxzgGHQkuCAcQM3oECCYQAA">
 
 <h3 align="left">this is where you'll see the editor in me:</h3>
 <p align="left">
