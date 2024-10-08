@@ -9,8 +9,6 @@
 <p align="left">
 <a href="https://instagram.com/caffeineverse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caffeineverse" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
 <h4 align="left">here's where I turn my ideas into 3D</h4>
 <p align="left">
 <a href="https://instagram.com/caffeineblends" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caffeineblends" height="30" width="40" /></a>
