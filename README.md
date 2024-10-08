@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lavanya Pundir</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer from India, I develop applications and websites out of curiosity and games out of boredom, blender and unreal engine are my stress bursters while VScode is where all the magic happens </h3>
 
-- 🌱 I’m currently learning **Full stack development**
+- 🌱 I’m currently brushing up my skill and learning **Full stack development**
 
-- 📫 How to reach me **lavanyaapundir@gmail.com**
+- 📫 You can reach out to me @**lavanyaapundir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
