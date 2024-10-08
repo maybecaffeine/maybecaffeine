@@ -4,7 +4,7 @@
 - 🌱 I’m currently brushing up my skills and learning **Full stack development**
 
 - 📫 You can reach out to me @**lavanyaapundir@gmail.com**
-<img align="right" alt="coding" width="400" src="https://tenor.com/en-IN/view/computer-work-online-gif-14640055">
+<img align="right" alt="coding" width="400" src="<div class="tenor-gif-embed" data-postid="14640055" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/computer-work-online-gif-14640055">Computer Work GIF</a>from <a href="https://tenor.com/search/computer-gifs">Computer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
 
 <h3 align="left">this is where you'll see the editor in me:</h3>
 <p align="left">
