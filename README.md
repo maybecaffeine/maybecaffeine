@@ -4,7 +4,7 @@
 - 🌱 I’m currently brushing up my skills and learning **Full stack development**
 
 - 📫 You can reach out to me @**lavanyaapundir@gmail.com**
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fanime-girl-computer-gifs&psig=AOvVaw2f0zwdhjDecgILXwicjz4y&ust=1728466550214000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDK0Oi9_ogDFQAAAAAdAAAAABAE![Uploading image.png…]()](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fanime-girl-computer-gifs&psig=AOvVaw2f0zwdhjDecgILXwicjz4y&ust=1728466550214000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDK0Oi9_ogDFQAAAAAdAAAAABAE)
+<img align="right" alt="coding" width="400" src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fanime-girl-computer-gifs&psig=AOvVaw2f0zwdhjDecgILXwicjz4y&ust=1728466550214000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDK0Oi9_ogDFQAAAAAdAAAAABAE![Uploading image.png…]()](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fanime-girl-computer-gifs&psig=AOvVaw2f0zwdhjDecgILXwicjz4y&ust=1728466550214000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDK0Oi9_ogDFQAAAAAdAAAAABAE)](https://images.app.goo.gl/zLdkfKU8VqvoDUVdA)
 ">
 
 <h3 align="left">this is where you'll see the editor in me:</h3>
