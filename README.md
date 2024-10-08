@@ -4,13 +4,12 @@
 - 🌱 I’m currently brushing up my skills and learning **Full stack development**
 
 - 📫 You can reach out to me @**lavanyaapundir@gmail.com**
-<img align="right" alt="coding" width="40" src="[https://www.google.com/imgres?q=animated%20gif%20coder%20girl%20for%20github&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd%2F68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966&imgrefurl=https%3A%2F%2Fgithub.com%2Faarushiagarwal131&docid=sWrr8vywmPY_3M&tbnid=6jsqada4naqKQM&vet=12ahUKEwj_rbPCv_6IAxVfxzgGHQkuCAcQM3oECCYQAA..i&w=498&h=498&hcb=2&ved=2ahUKEwj_rbPCv_6IAxVfxzgGHQkuCAcQM3oECCYQAA](https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" alt="tenor GIF)">
 
-<h3 align="left">this is where you'll see the editor in me:</h3>
+<h3 align="left">this is where you'll see the editor in me :</h3>
 <p align="left">
 <a href="https://instagram.com/caffeineverse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caffeineverse" height="30" width="40" /></a>
 </p>
-<h4 align="left">here's where I turn my ideas into 3D</h4>
+<h4 align="left">here's where I turn my ideas into 3D :</h4>
 <p align="left">
 <a href="https://instagram.com/caffeineblends" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caffeineblends" height="30" width="40" /></a>
 </p>
