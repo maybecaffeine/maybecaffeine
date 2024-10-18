@@ -4,7 +4,7 @@
 - 🌱 I’m currently brushing up my skills and learning **Full stack development**
 
 - 📫 You can reach out to me @**lavanyaapundir@gmail.com**
-
+<img src = "https://tenor.com/search/anime-girl-computer-gifs"/>
 <h3 align="left">this is where you'll see the editor in me :</h3>
 <p align="left">
 <a href="https://instagram.com/caffeineverse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caffeineverse" height="30" width="40" /></a>
