@@ -1,5 +1,5 @@
 <h1 align="center">Hi ! I'm Lavanya Pundir</h1>
-<h3 align="center">A passionate developer from India, I develop applications and websites out of curiosity and games out of boredom, blender and unreal engine are my stress bursters while VScode is where all the magic happens </h3>
+<h3 align="center">A passionate developer from India, I develop applications and websites out of curiosity and games out of boredom, blender and unreal engine are my stress bursters </h3>
 
 - 🌱 I’m currently brushing up my skills and learning **Full stack development**
 
