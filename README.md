@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Lavanya Pundir</h1>
 
 <h3 align="center">
-  A passionate developer from India, I develop applications and websites out of curiosity and games out of boredom. Blender and Unreal Engine are my stress busters.
+  A developer from India, I develop applications and websites out of curiosity and games out of boredom. Blender and Unreal Engine are my stress busters.
 </h3>
 
 <ul>
